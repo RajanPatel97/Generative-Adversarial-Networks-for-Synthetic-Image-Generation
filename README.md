@@ -1,1 +1,1 @@
-# EE4-62-Computer-Vision-CW2
+# Generative-Adversarial-Networks-for-Synthetic-Image-Generation
